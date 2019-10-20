@@ -65,7 +65,7 @@
                 deep: true,
             },
 
-
+            //只改变数组元素
             // todolist()
             // {
             //     this.savelist();
@@ -83,7 +83,7 @@
     .panel {
         width: 400px;
         height: auto;
-        borer: solid 4px #ff6700;
+        border: solid 4px #ff6700;
     }
 
     .list-group {
